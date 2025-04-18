@@ -57,7 +57,9 @@ http://localhost:5000
 
 PetiFy_AI/
 ├── __MACOSX/
+
 ├── __pycache__/
+
 ├── dataset/
 │   ├── images/
 │   ├── input.csv
@@ -65,18 +67,25 @@ PetiFy_AI/
 │   ├── labels.csv
 │   └── labels_test.csv
 │
+
 ├── static/
 │   ├── uploads/
 │   ├── script.js
 │   └── styles.css
 │
+
 ├── templates/
 │   └── index.html
 │
+
 ├── animal_model.h5
+
 ├── animal_model.pkl
+
 ├── app.py
+
 ├── train_model.py
+
 └── README.md
 
 
