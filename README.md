@@ -49,7 +49,7 @@ http://localhost:5000
 5. Upload any cat or dog image and click *Predict*.
 ------------------------------------------------------------------------
 ## Sample pictures of MOdel & Web_page
-
+![Model Prediction](path/to/Screenshot%202025-04-15%20193328.png)
 ------------------------------------------------------------------------
 
 ## Structure for saving files
