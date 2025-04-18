@@ -49,7 +49,9 @@ http://localhost:5000
 5. Upload any cat or dog image and click *Predict*.
 ------------------------------------------------------------------------
 ## Sample pictures of MOdel & Web_page
-![Model Prediction](path/to/Screenshot%202025-04-15%20193328.png)
+![Model Prediction](https://github.com/samprita123/Petify_AI/blob/main/Screenshot%202025-04-15%20193328.png?raw=true)
+![Running Page](https://github.com/samprita123/Petify_AI/blob/main/Screenshot%202025-04-15%20205149.png?raw=true)
+
 ------------------------------------------------------------------------
 
 ## Structure for saving files
