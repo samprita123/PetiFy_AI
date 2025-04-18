@@ -32,7 +32,7 @@ cd PetiFy_AI
 
 
 
-## Install dependencies:
+## Install Dependencies
 
 ```Bash
 pip install -r requirements.txt
