@@ -30,11 +30,11 @@
 git clone https://github.com/samprita123/PetiFy_AI.git
 cd PetiFy_AI
 
-
----------------------------------------------------------------------
+---
 
 ## Install Dependencies
 
+```bash
 pip install -r requirements.txt
 
 #Run the Flask app
