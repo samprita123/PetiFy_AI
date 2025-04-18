@@ -32,7 +32,7 @@ cd PetiFy_AI
 
 
 
-#Install dependencies:
+## Install dependencies:
 
 ```Bash
 pip install -r requirements.txt
@@ -45,13 +45,13 @@ python app.py
 #Open browser and go to:
 http://localhost:5000
 
-##Upload any cat or dog image and click Predict.
+## Upload any cat or dog image and click Predict.
 ------------------------------------------------------------------------
-##Sample pictures of MOdel & Web_page
+## Sample pictures of MOdel & Web_page
 
 ------------------------------------------------------------------------
 
-##Structure for saving files
+## Structure for saving files
 
 PetiFy_AI/
 │
