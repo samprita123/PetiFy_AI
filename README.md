@@ -26,26 +26,27 @@
 ## How to Use
 
 1. Clone the repository:
-```bash
+bash
 git clone https://github.com/samprita123/PetiFy_AI.git
 cd PetiFy_AI
 
----
 
-## Install Dependencies
-
-```bash
+2. Install Dependencies:
+bash
 pip install -r requirements.txt
 
-#Run the Flask app
 
+3. Run the Flask app:
+bash
 python app.py
 
-#Open browser and go to:
+
+4. Open browser and go to:
+
 http://localhost:5000
 
----
-## Upload any cat or dog image and click Predict.
+
+5. Upload any cat or dog image and click *Predict*.
 ------------------------------------------------------------------------
 ## Sample pictures of MOdel & Web_page
 
@@ -53,10 +54,10 @@ http://localhost:5000
 
 ## Structure for saving files
 
+
 PetiFy_AI/
-│
 ├── __MACOSX/
-├── _pycache_/
+├── __pycache__/
 ├── dataset/
 │   ├── images/
 │   ├── input.csv
@@ -65,9 +66,9 @@ PetiFy_AI/
 │   └── labels_test.csv
 │
 ├── static/
-│   └── uploads/
-|   └── script.js
-|   └── styles.css
+│   ├── uploads/
+│   ├── script.js
+│   └── styles.css
 │
 ├── templates/
 │   └── index.html
@@ -76,5 +77,6 @@ PetiFy_AI/
 ├── animal_model.pkl
 ├── app.py
 ├── train_model.py
-├── README.md
+└── README.md
+
 
