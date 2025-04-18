@@ -45,4 +45,36 @@ python app.py
 #Open browser and go to:
 http://localhost:5000
 
-#Upload a cat or dog image and click Predict.
+##Upload any cat or dog image and click Predict.
+------------------------------------------------------------------------
+##Sample pictures of MOdel & Web_page
+
+------------------------------------------------------------------------
+
+##Structure for saving files
+
+PetiFy_AI/
+│
+├── __MACOSX/
+├── _pycache_/
+├── dataset/
+│   ├── images/
+│   ├── input.csv
+│   ├── input_test.csv
+│   ├── labels.csv
+│   └── labels_test.csv
+│
+├── static/
+│   └── uploads/
+|   └── script.js
+|   └── styles.css
+│
+├── templates/
+│   └── index.html
+│
+├── animal_model.h5
+├── animal_model.pkl
+├── app.py
+├── train_model.py
+├── README.md
+
