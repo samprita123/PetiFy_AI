@@ -29,3 +29,20 @@
 ```bash
 git clone https://github.com/samprita123/PetiFy_AI.git
 cd PetiFy_AI
+
+
+
+#Install dependencies:
+
+```Bash
+pip install -r requirements.txt
+
+#Run the Flask app:
+
+```Bash
+python app.py
+
+#Open browser and go to:
+http://localhost:5000
+
+#Upload a cat or dog image and click Predict.
